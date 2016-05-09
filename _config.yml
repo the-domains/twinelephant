@@ -1,0 +1,28 @@
+name: twinelephant
+favicon: null
+layout_spectrum: 0.5822783918119967
+typography_spectrum: 0.5854616151191294
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.8096014226321131
+  lightness: 0.26402432727627456
+  saturation: 0.5543141511734575
+  rhythmicContrast: 0.21036339015699923
+purpose: []
